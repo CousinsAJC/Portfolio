@@ -1,0 +1,3 @@
+[submodule "OdinCalculator"]
+	path = OdinCalculator
+	url = https://github.com/CousinsAJC/OdinCalculator.git
