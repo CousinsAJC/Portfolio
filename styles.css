@@ -1,0 +1,13 @@
+.calculator-button{
+    background-color: lightpink;
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    height:30px;
+    width: 90px;
+}
+
+.calculator-link {
+    text-decoration: none;
+    color: black;
+}
